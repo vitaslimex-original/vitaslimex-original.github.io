@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitaslimex-original.github.io/sitemap.xml
